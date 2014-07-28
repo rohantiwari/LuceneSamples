@@ -1,0 +1,4 @@
+LuceneSamples
+=============
+
+Lucene sample code
